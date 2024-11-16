@@ -6,128 +6,53 @@
   <component name="ChangeListManager">
     <list default="true" id="5de24d52-2b84-4c33-9d72-fb4b124e611c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Charon_THE-JOURNEY-TO-THE-LIGHT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Charon_THE-JOURNEY-TO-THE-LIGHT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Falling down (cayendo)/GP Charon Falling down.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Falling down (cayendo)/GP Charon Falling down.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Idle.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Idle.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon Idle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon Idle.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon Idle.anim.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Idle/GP Charon.controller.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Jump/GP Charon Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Jump/GP Charon Jump.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Animations/Walk/GP Charon Walk.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Animations/Walk/GP Charon Walk.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Player/Idle (reposo) Charon-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Player/Idle (reposo) Charon-Sheet.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Player/Jump Charon-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Player/Jump Charon-Sheet.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Sprites/Player/Walk Charon-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Sprites/Player/Walk Charon-Sheet.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset (respaldo)/Tileset-Sheet 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset (respaldo)/Tileset-Sheet 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset (respaldo)/Tileset-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset (respaldo)/Tileset-Sheet.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset respaldo.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset respaldo.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset-Sheet 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset-Sheet 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Tilemap/Tileset-Sheet.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Caronte.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Caronte/Physics/GP_Charon.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Falling down (cayendo).meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Falling down (cayendo)/GP Charon Falling down.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Falling down (cayendo)/GP Charon Falling down.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Idle.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Idle/GP Charon Idle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Idle/GP Charon Idle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Idle/GP Charon.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Idle/GP Charon.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Jump.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Jump/GP Charon Jump.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Jump/GP Charon Jump.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Walk.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Walk/GP Charon Walk.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Animations/Walk/GP Charon Walk.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/GP_Charon.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/GP_Charon.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/New Physics Material 2D.physicsMaterial2D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Physics/New Physics Material 2D.physicsMaterial2D.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Player.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Player/HandleItems.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GP Charon/Player/HandleItems.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Column.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Column.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Platform.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Platform.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/HandleItems.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/HandleItems.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/Physics.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/Physics/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/Physics/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/Physics/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/Physics/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/GP Caronte/Physics/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/HandleItems.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/HandleItems.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon/GP_Charon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon/GP_Charon.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Player.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Idle (reposo) Caronte-Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Idle (reposo) Caronte-Sheet.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Jump Caronte-Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Jump Caronte-Sheet.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Walk Caronte-Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Walk Caronte-Sheet.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Ground.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Ground.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset (respaldo)/Tileset-Sheet 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset (respaldo)/Tileset-Sheet 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset (respaldo)/Tileset-Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset (respaldo)/Tileset-Sheet.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset-Sheet 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset-Sheet 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset-Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset-Sheet.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_1.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_1.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_10.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_10.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_11.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_11.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_13.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_13.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_14.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_14.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_17.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_17.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_22.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_22.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_23.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_23.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_24.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_24.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_25.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_25.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_26.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_26.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_27.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_27.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_28.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_28.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_6.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_6.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_8.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tilemap/Tileset/Tileset-Sheet_8.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tileset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tileset/Tileset-Sheet 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tileset/Tileset-Sheet 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tileset/Tileset-Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tileset/Tileset-Sheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/BackgroundMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/BackgroundMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/BackgroundMoveWithPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/BackgroundMoveWithPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/CameraScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/CameraScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlatformMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/PlatformMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Examples Physics &amp; Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Examples Physics &amp; Player/HandleItems.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Examples Physics &amp; Player/HandleItems.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Examples Physics &amp; Player/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Examples Physics &amp; Player/PlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon/GP_Charon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Player Charon/Physics Charon/GP_Charon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SoulsManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SoulsManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SystemLevelUp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SystemLevelUp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SystemSouls.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SystemSouls.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/UI_Controller.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/UI_Controller.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Outline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF - Outline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +68,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/CameraScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/MobilePlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/UIController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -169,6 +94,14 @@
   }
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Build\Charon - The Journey of the Light.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\karen\Documents\UPC Tecnicatura\Primer Año\Programación\Proyectos\Charon_THE-JOURNEY-TO-THE-LIGHT\Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.43f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;C:\Users\karen\Documents\UPC Tecnicatura\Primer Año\Programación\Proyectos\Charon_THE-JOURNEY-TO-THE-LIGHT&quot; -debugCodeOptimization" />
@@ -227,6 +160,10 @@
       <workItem from="1731258220003" duration="20783000" />
       <workItem from="1731375187162" duration="9167000" />
       <workItem from="1731508500821" duration="1149000" />
+      <workItem from="1731517401139" duration="20000" />
+      <workItem from="1731607548682" duration="7352000" />
+      <workItem from="1731618097365" duration="5880000" />
+      <workItem from="1731684116524" duration="33018000" />
     </task>
     <servers />
   </component>

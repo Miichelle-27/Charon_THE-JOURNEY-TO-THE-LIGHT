@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Platform
   - Soul
+  - PlatformDestroy
   layers:
   - Default
   - TransparentFX
@@ -43,20 +44,17 @@ TagManager:
   - name: Background
     uniqueID: 3224664637
     locked: 0
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: Tilemap
     uniqueID: 1813794407
-    locked: 0
-  - name: inGround
-    uniqueID: 3766314913
     locked: 0
   - name: Platform
     uniqueID: 3703505215
     locked: 0
   - name: Item
     uniqueID: 1589575727
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
   - name: Player
     uniqueID: 1062736347
