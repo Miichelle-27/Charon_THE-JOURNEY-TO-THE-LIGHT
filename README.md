@@ -1,2 +1,2 @@
 # Charon_THE-JOURNEY-TO-THE-LIGHT
-Programación videojuego "Caronte: El viaje a la luz"
+Programming of the first prototype of the videogame *"Charon: The Journey to the Light".*
